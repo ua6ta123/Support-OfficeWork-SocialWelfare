@@ -1,0 +1,17 @@
+This repository is for Socialwelfare related office work support Web application system by implementing Ruby and Ruby on Rails programming.
+The reason why that office work support needed:
+* In the field of social welfare in Japan, Korea, China, Phillipine, Thailand, Vietnam and etc. Asian countries, there are a lot of impedents to its contribution to their system. The author thought several accurate reasons are:
+1.Office work's inefficience.
+2.Office work's intangibility.
+3.Office work's lack of liablity.
+4.Office work's vulnerability to information security.
+5.Office work's unavailability.
+6.Office work's too much redundancy.
+7.Office work's lack of clarity.
+8.Office work's inconsistency.
+
+This repository; one of solutions of the system problems, should be a prototype of the solution of those problems shown above.
+
+The author think this program should be written by reasonable program language, that is Ruby and Ruby on Rails.
+
+The project starts with Ruby and RoR contributors and programmer(s).
